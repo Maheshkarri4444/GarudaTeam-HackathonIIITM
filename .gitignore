@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+
+backend/models/airforce.pt
+backend/models/army.pt
+backend/models/navy.pt
+
+backend/sam/sam2_b.pt
+
+frontend/node_modules
+
+backend/__pycache__
+backend/inputs/
+backend/outputs/
+
+
+
