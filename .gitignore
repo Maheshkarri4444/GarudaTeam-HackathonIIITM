@@ -17,6 +17,7 @@ backend/models/airforce.pt
 backend/models/army.pt
 backend/models/navy.pt
 backend/models/guns.pt
+backend/models/thermal.pt
 
 backend/sam/sam2_b.pt
 backend/sam/depth_anything_v2_vits.pth
