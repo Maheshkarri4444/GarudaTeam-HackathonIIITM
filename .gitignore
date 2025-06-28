@@ -16,14 +16,18 @@ build/
 backend/models/airforce.pt
 backend/models/army.pt
 backend/models/navy.pt
+backend/models/guns.pt
 
 backend/sam/sam2_b.pt
+backend/sam/depth_anything_v2_vits.pth
 
 frontend/node_modules
 
 backend/__pycache__
 backend/inputs/
 backend/outputs/
+
+backend/depth_outputs/
 
 
 
